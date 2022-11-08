@@ -18,6 +18,7 @@
 - 📫 How to reach me **You can email me at dheerajk.123@gmail.com. I'll try to respond as soon as possible!**
 
 - ⚡ Fun fact **My most useless special talent is 'laziness' 😎**
+<img align="right" alt="GIF" src="https://github.com/dheerajkadri/dheerajkadri/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
