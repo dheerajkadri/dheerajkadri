@@ -7,19 +7,19 @@
 
 <img align="right" alt="GIF" src="https://github.com/dheerajkadri/dheerajkadri/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on **Kubernetes Security projects @Aqua Security**
+- 🔭 I’m currently working on - **Kubernetes Security projects @Aqua Security**
 
-- 🌱 I’m currently learning **Kubernetes, AWS, Vue.js, AWS**
+- 🌱 I’m currently learning - **Kubernetes, AWS, Vue.js, AWS**
 
-- 👯 I’m looking to collaborate on **Anything that will help me learn more technological stacks and improve my overall skills**
+- 👯 I’m looking to collaborate on - **Anything that will help me learn more technological stacks and improve my overall skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dheerajkadri?tab=repositories](https://github.com/dheerajkadri?tab=repositories)
+- 👨‍💻 All of my projects are available at - [https://github.com/dheerajkadri?tab=repositories](https://github.com/dheerajkadri?tab=repositories)
 
-- 💬 Ask me about **Java,Golang,Docker,Kubernetes,gRPC**
+- 💬 Ask me about - **Java,Golang,Docker,Kubernetes,gRPC**
 
-- 📫 How to reach me **You can email me at dheerajk.123@gmail.com. I'll try to respond as soon as possible!**
+- 📫 How to reach me - **You can email me at dheerajk.123@gmail.com. I'll try to respond as soon as possible!**
 
-- ⚡ Fun fact **My most useless special talent is 'laziness' 😎**
+- ⚡ Fun fact - **My most useless special talent is 'laziness' 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
